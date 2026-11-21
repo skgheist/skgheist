@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hello!
 
-<!--
-**skgheist/skgheist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 4th-Year Accounting & Finance Student | University of Macedonia
 
-Here are some ideas to get you started:
+I have a strong interest in **data analysis**, **business intelligence (BI)**, and **consulting**. I am passionate and self-motivated, using my free time to learn new skills and technologies, and I am currently seeking an **entry-level role** to gain hands-on experience in a professional environment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+
+  <div>
+    <a href="https://www.linkedin.com/in/gourgiotis" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
+    </a>
